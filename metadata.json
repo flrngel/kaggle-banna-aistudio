@@ -1,0 +1,5 @@
+{
+  "name": "AI Photo Studio",
+  "description": "An intuitive web application for AI-powered photo editing. Upload a base image, add object layers, and use Gemini to generate stunning compositions with simple text prompts.",
+  "requestFramePermissions": []
+}
